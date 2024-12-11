@@ -1,6 +1,6 @@
 # Weather Trends Analysis in Greater London
 
-**Duration:** Sep 2023 – Jan 2024
+**Duration:** Sep 2023 – Dec 2023
 
 ## Overview
 Analyzed 60 years of daily weather data (~21,900 records) from multiple London stations to identify long-term trends, seasonal patterns, and key correlations. Insights inform sustainable agriculture, renewable energy planning, and urban development strategies in the face of climate change.
